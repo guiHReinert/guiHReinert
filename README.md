@@ -10,7 +10,7 @@ https://github-enchanter-list.vercel.app/list/trophies
 
 # :monocle_face: Hello, I’m Guilherme H. Reinert!
 
-Currently a **Scientific Computing student** who loves to constantly improve by learning all sorts of methods and skills wherever I can find them. Coding, for me, is a wonderful art that simultaneously blends logic, math, technology and an wild amount of colours — built on the knowledge shared by developers from all around the world.
+Currently a **Scientific Computing student** who loves to constantly improve by learning all sorts of methods and skills wherever I can find them. Coding, for me, is a wonderful art that simultaneously blends logic, math, technology and an wild amount of colours, built on the knowledge shared by developers from all around the world.
 
 ## :gear: What I Know So Far
 
@@ -19,6 +19,7 @@ Currently a **Scientific Computing student** who loves to constantly improve by 
 ![Static Badge](https://img.shields.io/badge/LaTeX-008000?style=for-the-badge&logo=latex)
 ![Static Badge](https://img.shields.io/badge/ARDUINO-00878f?style=for-the-badge&logo=arduino)
 ![Static Badge](https://img.shields.io/badge/JAVA-ff4500?style=for-the-badge&logo=openjdk)
+![Static Badge](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/ASSEMBLY-%23007acc?style=for-the-badge&logo=assemblyscript)
 ![Static Badge](https://img.shields.io/badge/HASKELL-%235d4f85?style=for-the-badge&logo=haskell)
 
