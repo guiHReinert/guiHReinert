@@ -26,11 +26,14 @@ Currently a **Scientific Computing student** who loves to constantly improve by 
 ### Looking Forward to Learning
 
 ![Static Badge](https://img.shields.io/badge/aws-aws?style=for-the-badge&logo=icloud&logoColor=ffffff&labelColor=ff00ff&color=9932cc)
+![Static Badge](https://img.shields.io/badge/css-663399?style=for-the-badge&logo=css)
+![Static Badge](https://img.shields.io/badge/yaml-cb171e?style=for-the-badge&logo=yaml)
 
 ### Honorable Mentions
 
-![Static Badge](https://img.shields.io/badge/PCLOUD-00bfff?style=for-the-badge&logo=icloud&logoColor=ffffff)
+![Static Badge](https://img.shields.io/badge/zettlr-1cb27e?style=for-the-badge&logo=zettlr&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/OBSIDIAN-%237c3aed?style=for-the-badge&logo=obsidian)
+![Static Badge](https://img.shields.io/badge/PCLOUD-00bfff?style=for-the-badge&logo=icloud&logoColor=ffffff)
 
 ## :trophy: GitHub Trophies
 
