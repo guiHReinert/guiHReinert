@@ -21,6 +21,7 @@ Currently a **Scientific Computing student** who loves to constantly improve by 
 ![Static Badge](https://img.shields.io/badge/JAVA-ff4500?style=for-the-badge&logo=openjdk)
 ![Static Badge](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/ASSEMBLY-%23007acc?style=for-the-badge&logo=assemblyscript)
+![Static Badge](https://img.shields.io/badge/mongodb-47a248?style=for-the-badge&logo=mongodb&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/HASKELL-%235d4f85?style=for-the-badge&logo=haskell)
 
 ### Looking Forward to Learning
@@ -32,8 +33,8 @@ Currently a **Scientific Computing student** who loves to constantly improve by 
 ### Honorable Mentions
 
 ![Static Badge](https://img.shields.io/badge/zettlr-1cb27e?style=for-the-badge&logo=zettlr&logoColor=ffffff)
-![Static Badge](https://img.shields.io/badge/OBSIDIAN-%237c3aed?style=for-the-badge&logo=obsidian)
 ![Static Badge](https://img.shields.io/badge/PCLOUD-00bfff?style=for-the-badge&logo=icloud&logoColor=ffffff)
+![Static Badge](https://img.shields.io/badge/OBSIDIAN-%237c3aed?style=for-the-badge&logo=obsidian)
 
 ## :trophy: GitHub Trophies
 
