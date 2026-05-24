@@ -45,7 +45,7 @@ Currently a **Scientific Computing student** who loves to constantly improve by 
 *Text me if you have anything cool to share or to ask me :P*
 
 - **E-mail**: [guilhermeh.rei@gmail.com](mailto:guilhermeh.rei@gmail.com)
-- **LinkedIn**: [Guilherme Reinert](www.linkedin.com/in/guilherme-reinert-839400411)
+- **LinkedIn**: [Guilherme Reinert](www.linkedin.com/in/guilherme-reinert-839400411/)
 - **Instagram**: [@guigui_gui_guigui](https://www.instagram.com/guigui_gui_guigui/)
 
 ## :disguised_face: Fun facts
